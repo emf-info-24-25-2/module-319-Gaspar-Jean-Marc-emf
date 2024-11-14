@@ -1,5 +1,6 @@
 import java.util.Random;
 
+//RIF: attention, le fichier doit avoir le même nom que la classe, le reste semble en ordre!
 public class devoir02 
 {
 
